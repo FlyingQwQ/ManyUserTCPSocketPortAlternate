@@ -5,3 +5,10 @@
 支持多个用户连接
 <br />
 支持创建多个端口
+<br />
+<br />
+在main里面使用，使用：
+<br />
+new portCreateThread(端口号);
+<br />
+来创建端口。
