@@ -9,6 +9,6 @@
 <br />
 在main里面使用，使用：
 <br />
-new portCreateThread(端口号);
+<b>new portCreateThread(端口号);</b>
 <br />
 来创建端口。
