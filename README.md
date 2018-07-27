@@ -1,6 +1,6 @@
 # Many UserSocket Port Alternate
 <br />
-<h1>这是一个简洁的Socket端口转发</h1>
+<h1>这是一个简洁的Socket端口数据转发</h1>
 <br />
 支持多个用户连接
 <br />
