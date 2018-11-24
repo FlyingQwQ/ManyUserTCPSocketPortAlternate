@@ -8,3 +8,7 @@
 <b>new portCreateThread(端口号);</b>
 <br />
 来创建端口。
+<br />
+可用于mstsc，ssh，等tcp协议程序
+<br />
+不支持HTTP
